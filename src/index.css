@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.App{
+  background-color: rgb(129, 140, 245);
+  color: rgb(239, 245, 243);
+  
+}
+.API{
+  background-color: rgb(149, 202, 248);
+  margin: 20px;
+  width: 1600px;
+  display: flex;
+  justify-content:space-around
+}
